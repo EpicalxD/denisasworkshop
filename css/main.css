@@ -505,6 +505,9 @@ img {
     display: flex;
     flex-direction: column;
   }
+    .cta .cta-text .cta-logo {
+    width: 200px;
+  }
   .cta .cta-text {
     padding: 3.5rem 2rem;
     width: 100%;
