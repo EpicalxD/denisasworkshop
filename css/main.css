@@ -221,17 +221,17 @@ img {
   justify-content: space-evenly;
 }
 #chose .medium-teaser-container .mt-img-1 {
-  background: url(./img/clay-modelling-650x975.jpg);
+  background: url(../img/clay-modelling-650x975.jpg);
   object-fit: cover;
   background-size: 100% 100%;
 }
 #chose .medium-teaser-container .mt-img-2 {
-  background: url(./img/header-img-768x1024.jpg);
+  background: url(../img/header-img-768x1024.jpg);
   object-fit: contain;
   background-size: 100% 100%;
 }
 #chose .medium-teaser-container .mt-img-3 {
-  background: url(./img/girl-painting-650x975.jpg);
+  background: url(../img/girl-painting-650x975.jpg);
   background-size: 100% 100%;
 }
 #chose .medium-teaser-container .medium-teaser {
